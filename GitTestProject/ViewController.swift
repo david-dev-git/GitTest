@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         //Adding comment
         print("git")
+        print("Git commited")
+        print("Git #3")
         
     }
 
